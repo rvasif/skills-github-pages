@@ -13,3 +13,5 @@ title: Welcome to my blog
 ## :)
 ## Monday morning blues
 ## Taco tuesday
+## Wild tuesday
+
